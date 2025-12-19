@@ -13,9 +13,9 @@
 
 | 프로젝트 | 주요 기술 | 성과 |
 |---------|---------|------|
-| **OTT 콘텐츠 추천 시스템** | Apache Lucene, Spring Boot, MySQL, AWS 3-tier | API 성능 80% 개선 |
-| **LG U+ 챗봇 개발** | RAG, Vector DB, CI/CD | 7명 팀 리드 |
-| **비트코인 분석** | Spring Boot, MySQL | AWS t3.micro 극한 최적화 |
+| **[OTT별 콘텐츠 추천 시스템](https://github.com/UDT-Uplus-Dream-Team/UDT-be)** | Apache Lucene, Spring Boot, MySQL, AWS 3-tier | API 성능 80% 개선 |
+| **[LG U+ 챗봇 개발](https://github.com/if-muneo/muneo-be)** | RAG, Vector DB, CI/CD | PL |
+| **[비트코인 분석](https://github.com/hjg727/crypto-analyzer)** | Spring Boot, MySQL | AWS t3.micro 극한 최적화 |
 
 ### Contact
 - Email: tony9800@naver.com
